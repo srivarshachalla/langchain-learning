@@ -1,0 +1,48 @@
+nano hr_policy.txt
+```
+
+Paste this inside:
+```
+BIGSTEP TECHNOLOGIES — HR POLICY DOCUMENT
+
+LEAVE POLICY
+Employees are entitled to 24 paid leaves per year.
+Leaves are credited on the 1st of January every year.
+Unused leaves can be carried forward up to a maximum of 10 days.
+Employees must apply for leave at least 3 days in advance.
+Emergency leaves require manager approval within 24 hours.
+Maternity leave is 26 weeks as per government regulations.
+Paternity leave is 5 working days.
+
+WORK FROM HOME POLICY
+Employees can work from home up to 2 days per week.
+WFH requires prior approval from the reporting manager.
+WFH is not permitted on Mondays and Fridays.
+Employees must be reachable on Slack and email during WFH.
+WFH can be revoked if performance is impacted.
+
+OFFICE TIMING POLICY
+Standard office hours are 9:30 AM to 6:30 PM Monday to Friday.
+Employees must log a minimum of 8 hours per working day.
+Late arrivals beyond 10:00 AM require prior intimation.
+Early departure requires manager approval.
+Attendance is tracked via the biometric system.
+
+APPRAISAL POLICY
+Performance appraisals are conducted twice a year.
+Appraisal cycles run in April and October.
+Ratings are given on a scale of 1 to 5.
+Employees rated 4 or above are eligible for promotion.
+Salary increments are based on appraisal rating and company performance.
+
+REIMBURSEMENT POLICY
+Travel reimbursements must be submitted within 7 days of travel.
+Maximum cab reimbursement is Rs 500 per day.
+Meal reimbursements are allowed up to Rs 200 per day during client visits.
+All reimbursements require original bills and manager approval.
+
+RESIGNATION POLICY
+Employees must serve a notice period of 60 days.
+Notice period can be reduced with mutual agreement.
+Full and final settlement is processed within 45 days of last working day.
+Employees must return all company assets before the last working day.
